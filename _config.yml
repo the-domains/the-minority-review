@@ -1,0 +1,14 @@
+layout_spectrum: 0.2114695
+color:
+  saturation: 0.7078853
+  lightness: 0.546595
+  brandStrength: 0.3297491
+  rhythmicContrast: 0.6863799
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.8263066
+name: The Minority Review
